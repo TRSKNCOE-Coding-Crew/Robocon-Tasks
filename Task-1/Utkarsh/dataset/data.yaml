@@ -1,0 +1,10 @@
+# data.yaml for YOLOv8 classification
+
+path: C:/Users/LENOVO/OneDrive/Desktop/Kungfu_yolo/dataset
+train: train
+val: val
+
+names:
+  0: R1_real
+  1: R2_fake
+  2: R2_real
